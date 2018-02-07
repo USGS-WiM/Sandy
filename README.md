@@ -1,2 +1,2 @@
 # Sandy
-Replacement for the legacy Hurricane Sandy mapper, based on the STNEventApp codebase.
+## Update, 2018-02-07: Deprecated ### this repo has been superceded by the FEV repo and is no longer being actively maintained.
