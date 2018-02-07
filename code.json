@@ -17,7 +17,7 @@
     },
 
     "homepageURL": "https://stn.wim.usgs.gov/fev/#Sandy",
-    "downloadURL": "https://github.com/USGS-WiM/Sandy.git",
+    "downloadURL": "https://github.com/USGS-WiM/Sandy/archive/master.zip",
     "disclaimerURL": "https://github.com/USGS-WiM/Sandy/blob/master/LICENSE.md",
     "repositoryUrl": "https://github.com/USGS-WiM/Sandy",
     "vcs": "git",
