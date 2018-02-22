@@ -4,7 +4,7 @@
     "organization": "U.S. Geological Survey",
     "description": "Flood event viewer for hurricane Sandy, from the Short-Term Network (STN) database",
     "version": "v0.0.0",
-    "status": "Archival"
+    "status": "Archival",
 
     "permissions": {
       "usageType": "openSource",
